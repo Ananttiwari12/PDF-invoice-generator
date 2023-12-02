@@ -50,6 +50,3 @@ for filepath in filepaths:
     
     pdf.output(f"PDFs/{filename}.pdf")
     
-    
-    
-    
